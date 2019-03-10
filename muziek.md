@@ -4,7 +4,7 @@ title: Muziek
 permalink: /muziek/
 ---
 
-Ik ben, in volgorde
+Ik ben, in volgorde:
 
 - Violist
 - Dirigent
@@ -17,11 +17,17 @@ Ik ben, in volgorde
 
 {% assign projs = site.categories.music-projects %}
 {% for proj in projs %}
+
 {% assign projContent = proj.content | strip_newlines %}
-
 {% if projContent != "" %}
+{% if proj.span %}
+{% assign d = proj.span %}
+{% else %}
+{% assign d = proj.date | date: "%Y" %}
+{% endif %}
 
-- **[_({{ proj.date | date: "%Y" }})_  {{ proj.title }}](/muziek/{{ proj.title | slugify }})**
+
+- **[_({{ d }})_  {{ proj.title }}]({{ proj.url }})**
 : {{ proj.short-description }}  
 Functie: {{ proj.position }}
 
