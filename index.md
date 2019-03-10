@@ -3,5 +3,4 @@ layout: home
 ---
 
 
-Deze website is een W.I.P
-
+# [Muziek](/muziek/)   -   [Computer Science](/cs/)
