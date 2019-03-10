@@ -30,11 +30,6 @@ plugins:
   - jekyll-feed
 
 
-collections:
-    music-projects:
-        output: true
-        permalink: /muziek/:title
-
 
 
 # Exclude from processing.
