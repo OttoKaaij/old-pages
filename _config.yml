@@ -34,7 +34,7 @@ plugins:
 collections:
     music-projects:
         output: true
-        permalink: /music/:title
+        permalink: /muziek/:title
 
 
 
