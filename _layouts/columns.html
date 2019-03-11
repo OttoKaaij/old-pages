@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<style>
+     .grid {
+      display: flex;
+     }
+    .column {
+      flex: 1;
+    }
+    .column:last-child {
+      margin-left: 30px;
+    }
+    .column-title {
+      font-size: 35px;
+    }
+</style>
+
+{{ page.top.content | markdownify }}
+{% if page.img %}
+<img src="{{ page.img }}" style="margin-bottom: 20px" />
+{% endif %}
+
+<article class="columns">
+  <div class="grid" >
+{% for section in page.sections %}
+    <div class="column">
+      <header class="column-header">
+        <h1 class="column-title">{{ section.title | escape }}</h1>
+      </header>
+
+      <div class="post-content">
+        {{ section.content | markdownify }}
+      </div>
+    </div>
+{% endfor %}
+  </div>
+
+
+  {{ content }}
+
+</article>
