@@ -1,0 +1,42 @@
+---
+layout: page
+---
+
+
+<article class="imgpage">
+
+  <div class="imgpage-content">
+    {{ content }}
+  </div>
+
+
+
+<button class="slide-button slide-button-left" onclick="plusDivs(-1)">&#10094;</button>
+<button class="slide-button slide-button-right" onclick="plusDivs(+1)">&#10095;</button>
+
+{% for img in page.imgs %}
+<img class="slide-img" src="{{ img }}">
+{% endfor %}
+</article>
+
+<script> 
+    console.log("jazz")
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("slide-img");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length} ;
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+
+  x[slideIndex-1].style.display = "block";
+}
+</script>
