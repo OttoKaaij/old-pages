@@ -40,6 +40,8 @@ daar ben ik ze oneindig dankbaar voor.
 
 ## Audio
 
+Veel dank naar Doris Veldman voor deze fantastische opname:
+
 <audio controls>
     <source src="/assets/audio/bartoktoktokkelen.mp3" type="audio/mpeg">
 </audio>
