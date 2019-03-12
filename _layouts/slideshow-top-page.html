@@ -1,0 +1,87 @@
+---
+layout: page
+---
+
+
+<article class="imgpage">
+<div class=imgslideshow>
+    {% if page.imgs %}
+    <div class="slide-button slide-button-left" onclick="plusDivs(-1)">
+        <div></div>
+        <div> &#10094; </div>
+        <div></div>
+    </div>
+    <div class="slide-button slide-button-right" onclick="plusDivs(+1)">
+        <div></div>
+        <div> &#10095; </div>
+        <div></div>
+    </div>
+    {% endif %}
+
+    {% for img in page.imgs %}
+    <img class="slide-img" src="{{ img }}">
+    {% endfor %}
+    {% if page.imgs %}
+    {% endif %}
+</div>
+
+  <div class="imgpage-content">
+    {{ content }}
+  </div>
+
+
+</article>
+
+<script> 
+    console.log("jazz")
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("slide-img");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length} ;
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+
+  x[slideIndex-1].style.display = "block";
+}
+</script>
+<style> 
+.imgslideshow {
+    position: relative
+
+}
+.imgslideshow .slide-button {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    justify-content: space-between;
+    vertical-align: middle;
+    position: absolute;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.4);
+    border: none;
+    outline: 0;
+}
+.imgslideshow .slide-button:hover {
+    background-color: rgba(255, 255, 255, 0.7);
+
+}
+.slide-button-left {
+    left: 0
+}
+.slide-button-right {
+    right: 0
+
+}
+
+
+
+</style>

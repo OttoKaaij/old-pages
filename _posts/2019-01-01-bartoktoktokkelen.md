@@ -1,5 +1,5 @@
 ---
-layout: slideshow-page
+layout: slideshow-top-page
 title: Bartoktoktokkelen
 position: Muzikaal leider, Arrangeur
 short-description: De Roemeense Volksdansen van Bela Bartok, gearrengeerd voor band in een funky, jazzy en disco-y stijl.
@@ -19,7 +19,7 @@ Bartok. Het stuk is omgevormd van een vrolijke volksdans naar een mengelmoes
 van verschillende genres. 
 
 Het stuk is gearrengeerd door Mikel van Dijk en door mij, en van alles komt in
-dit project naar voren: latin, disco, reggae. Sommige delen blijven dan weer
+dit project naar voren: latin, disco, reggae, etc. Sommige delen blijven dan weer
 relatief dicht aan het origineel. 
 
 Met een set van mijn beste vrienden heb ik dit onder elkaar kunnen zetten, en
@@ -46,4 +46,4 @@ daar ben ik ze oneindig dankbaar voor.
 
 ## Beeld
 
-Videomateriaal volgt.
+Videomateriaal volgt, met veel dank aan Orihana Calcines.
