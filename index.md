@@ -5,7 +5,7 @@ img: assets/vhjo/directie.png
 sections:
   - title: Over mij
     content: |
-        Lorem ipsum dolor sit amet, 
+        Nederlands: ipsum dolor sit amet, 
         consectetur adipiscing elit. Etiam eu augue vel
         odio sodales venenatis. Sed pulvinar elit at nulla tincidunt ultricies.
         Pellentesque urna metus, luctus sit amet tempus in, ultricies eget sem. Donec
@@ -20,7 +20,7 @@ sections:
   - title: About me
     content: |
 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu augue vel
+        Engels: ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu augue vel
         odio sodales venenatis. Sed pulvinar elit at nulla tincidunt ultricies.
         Pellentesque urna metus, luctus sit amet tempus in, ultricies eget sem. Donec
         tempus metus non porta molestie. Pellentesque habitant morbi tristique senectus
