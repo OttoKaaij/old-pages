@@ -2,8 +2,9 @@
 layout: slideshow-top-page
 title: Bartoktoktokkelen
 position: Muzikaal leider, Arrangeur
-short-description: De Roemeense Volksdansen van Bela Bartok, gearrengeerd voor band in een funky, jazzy en disco-y stijl.
-imgs: 
+short-description: De Roemeense Volksdansen van Bela Bartok, gearrengeerd voor band in een funky, jazzy en disco-y stijl
+
+imgs:
     - /assets/bartoktoktokkelen/1.jpg
     - /assets/bartoktoktokkelen/2.jpg
     - /assets/bartoktoktokkelen/3.jpg
