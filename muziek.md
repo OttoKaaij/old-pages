@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Muziek
-permalink: /muziek/
+permalink: /muziek
 ---
 
 <img src="/assets/krashna/krashna-2019-03-10.jpg" width="300" align="right"/>

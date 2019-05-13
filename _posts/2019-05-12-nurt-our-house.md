@@ -5,7 +5,7 @@ position: Muzikaal leider
 short-description: Musical van het Rijswijks Jeugd Theater 
 category: project-info
 span: 2018-2019
-permalink: /our-house/
+permalink: /our-house
 ---
 
 Groep Nurt van het Rijswijks Jeugd Theater speelt de musical Our House met de
