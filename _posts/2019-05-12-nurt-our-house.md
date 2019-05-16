@@ -32,7 +32,7 @@ worden in overleg gepland.
 
 | Partij | Muzikant |
 | -----  | -------- |
-| Keys 1 | ? |
+| Keys 1 | (Carly?) |
 | Keys 2 | ? |
 | Gitaar | ? |
 | Basgitaar | ? |
