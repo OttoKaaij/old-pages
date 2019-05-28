@@ -20,7 +20,9 @@ I am / have been active as a teaching assistant for the following courses:
 - Web and Database Technology
 - Algorithms and Datastructures
 - Object Oriented Programming Project
-- Software Quality and Testing.
+- Software Quality and Testing
 
+# Minor education
 
-
+In academic year 2019-2020, I will be doing a minor in education at the TU
+Delft.
