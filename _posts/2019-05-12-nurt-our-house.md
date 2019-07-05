@@ -45,3 +45,63 @@ worden in overleg gepland.
 Partijen zijn [hier](https://drive.google.com/open?id=1x9PrzawUDGj7HIoAUq8nGMOWs-VeLCxF). Het is nog niet duidelijk hoeveel er nog aan gaat
 wijzigen.
 
+
+
+# Projectbrief 2019-07-91
+
+Hey allen,
+
+Leuk dat jullie mee willen doen aan Our House.
+
+Hierbij de eerste volledige brief met informatie. Het beloofd een show te
+worden met veel vrijheid voor de band, en veel mogelijkheden om lekker muziek
+te maken, en los te komen van de partijen. Leuk!
+
+## Data
+
+Twee soorten: data in theater, en repetities.
+
+### In theater
+
+- 13 februari 2020 
+: Bouwdag in theater, soundcheck, generale.
+
+- 14, 15, 16 februari 2020
+: Shows!
+
+### Repetities
+
+- Dinsdag 17 september 1900 - 2200-ish
+: Repetitie
+
+- Dinsdag 1 oktober 1900 - 2200-ish
+: Repetitie
+
+- Zondag 13 oktober 1000 - 1500
+: Repetitie (Also Jonah's verjaardag)
+
+{(_mogelijk, ik hoop niet nodig_)
+- Zondag 15 december 1000 - 1500 
+: Repetitie met cast, hopelijk doorloop.
+}
+
+- Zondag 14 januari 1000 - 1500
+: Repetitie met cast, hopelijk doorloop.
+
+- Zondag 2 februari 1000 - 1500
+: Repetitie met cast, hopelijk doorloop.
+
+## Meer informatie 
+
+Vragen? Bellen, appen of mailen kan altijd! Suggesties voor muzikanten? laat
+ook maar weten? De huidige bezitting, en alle andere informatie
+(repetitieschema, partijen, etc.) staan op ottokaaij.nl/our-house. 
+
+Hopelijk tot 17 september,
+
+liefs,
+
+Otto
+
+
+
