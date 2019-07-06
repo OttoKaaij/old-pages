@@ -39,7 +39,7 @@ Twee soorten: data in theater, en repetities.
 - Zondag 13 oktober 1000 - 1500
 : Repetitie (Also Jonah's verjaardag)
 
-- Zondag 14 januari 1000 - 1500
+- Dinsdag 14 januari 1000 - 1500
 : Repetitie met cast, hopelijk doorloop.
 
 - Zondag 2 februari 1000 - 1500
@@ -104,7 +104,7 @@ Twee soorten: data in theater, en repetities.
 - Zondag 13 oktober 1000 - 1500
 : Repetitie (Also Jonah's verjaardag)
 
-- Zondag 14 januari 1000 - 1500
+- Dinsdag 14 januari 1000 - 1500
 : Repetitie met cast, hopelijk doorloop.
 
 - Zondag 2 februari 1000 - 1500
