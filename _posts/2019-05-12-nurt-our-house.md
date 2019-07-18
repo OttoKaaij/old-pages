@@ -53,8 +53,8 @@ Twee soorten: data in theater, en repetities.
 | -----  | -------- |
 | Keys 1 | Carly |
 | Keys 2 | Otto |
-| Gitaar | ? |
-| Basgitaar | ? |
+| Gitaar | Roel |
+| Basgitaar | Tisha |
 | Drums | Jonah |
 | Trompet | ? |
 | Sax, Klarinet, Fluit | Hugo |
