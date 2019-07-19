@@ -112,9 +112,9 @@ Twee soorten: data in theater, en repetities.
 
 ## Meer informatie 
 
-Vragen? Bellen, appen of mailen kan altijd! Suggesties voor muzikanten? laat
-ook maar weten? De huidige bezitting, en alle andere informatie
-(repetitieschema, partijen, etc.) staan op ottokaaij.nl/our-house. 
+Vragen? Bellen, appen of mailen kan altijd!  De huidige bezitting, en alle
+andere informatie (repetitieschema, partijen, etc.) staan op
+ottokaaij.nl/our-house. 
 
 Hopelijk tot 17 september,
 
