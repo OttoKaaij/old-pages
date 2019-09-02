@@ -65,8 +65,29 @@ Partijen zijn [hier](https://drive.google.com/open?id=1x9PrzawUDGj7HIoAUq8nGMOWs
 wijzigen.
 
 
+# Projectbrief 2019-09-02
 
-# Projectbrief 2019-07-91
+Hey allemaal,
+
+Met Martin op trompet zijn we compleet!
+Onze eerste repetitie is al snel:
+
+17 september, 1900-2200(ish)
+Esdoornstraat 5, Rijswijk
+
+Volgens mijn administratie is Carly er dan niet, maar de rest wel. Als dat niet klopt, laat even weten.
+
+Het plan is om de eerste acte onder handen te nemen. De partijen staan (net als alle andere info) op ottokaaij.nl/our-house, maar ook hier: https://drive.google.com/open?id=1x9PrzawUDGj7HIoAUq8nGMOWs-VeLCxF
+
+Kijk het goed door en oefen het, dan kunnen we efficient door de show heen.
+Als er vragen zijn hoor ik het wel.
+
+
+Tot de 17de,
+
+Otto
+
+# Projectbrief 2019-07-19
 
 Hey allen,
 
