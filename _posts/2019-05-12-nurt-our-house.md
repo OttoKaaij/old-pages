@@ -56,7 +56,7 @@ Twee soorten: data in theater, en repetities.
 | Gitaar | Roel |
 | Basgitaar | Tisha |
 | Drums | Jonah |
-| Trompet | ? |
+| Trompet | Martin |
 | Sax, Klarinet, Fluit | Hugo |
 
 # Partijen
