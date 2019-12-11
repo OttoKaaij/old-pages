@@ -5,7 +5,7 @@ position: Muzikaal leider en acteur
 short-description: Musical projectje met strijkkwartet en 5 acteurs
 category: project-info
 span: 2018-2019
-permalink: /our-house
+permalink: /21-chump-street
 ---
 
 Hey allen,
