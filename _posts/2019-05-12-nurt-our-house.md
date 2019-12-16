@@ -8,6 +8,11 @@ span: 2018-2019
 permalink: /our-house
 ---
 
+
+# Notes Doorloop 15 December
+
+Hoi! De notes van 15 december staan [hier](/our-house-notes-1)
+
 Groep Nurt van het Rijswijks Jeugd Theater speelt de musical Our House met de
 muziek van Madness. Best leuk, en veel vrijheid voor de muzikanten om solootjes
 te pakken en muzikale grapjes te maken.
