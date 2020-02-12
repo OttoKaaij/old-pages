@@ -47,9 +47,9 @@ Is wel vamp aan het einde, 80 tm 83
 
 Sneller, enegieker, blijer
 
-# 8a - II 
+# 8a - II. Driving in my car
 
-Drumroll in laten storten
+Tutti roffel, in laten storten, komt op repetitie.
 
 # 10. Shut Up
 
