@@ -12,7 +12,7 @@ permalink: /our-house-notes-2
 - 1a. moved to after 14a.
 - Extra song House of Fun added after 1. opening
 
-## Einde show
+- Einde show:
 
 De laatste 3 maten van 20. Primrose Hill / Our house zijn eruit. Vervolgens
 spelen we na een korte scene de laatste 6 maten van 18. it must be love _of_
@@ -63,13 +63,8 @@ Super piano allemaal, abrupt stoppen, en dan grote roffel!
 
 Veel veranderingen, worden doorgesproken en geoefend op donderdag:
 
-- Herhaling maat 16 tm 21
-: is er weer uit.
-- De eerste twee tellen van maat 22
-: wordt een vamp.
-- Maat 31 en 32
-: spelen we gewoon 2x, geen vamp.
-- Na maat 48
-: een stop. 
-- De twee herhalingen tussen maat 49 en 56 
-: spelen we allebei twee keer, maar waarschijnlijk stoppen we eerder, en geef ik de _3, 4_ voor maat 57. 
+- Herhaling maat 16 tm 21 is er weer uit.
+- De eerste twee tellen van maat 22 wordt een vamp.
+- Maat 31 en 32 spelen we gewoon 2x, geen vamp.
+- Na maat 48 een stop. 
+- De twee herhalingen tussen maat 49 en 56 spelen we allebei twee keer, maar waarschijnlijk stoppen we eerder, en geef ik de _3, 4_ voor maat 57. 
