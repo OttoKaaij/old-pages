@@ -8,8 +8,11 @@ span: 2018-2019
 permalink: /our-house
 ---
 
+# Notes Doorloop 2 februari en repetitie 11 februari
 
-# Notes Doorloop 15 December
+De notes van 2 en 11 februari staan [hier](/our-house-notes-2)
+
+# Notes Doorloop 15 december
 
 Hoi! De notes van 15 december staan [hier](/our-house-notes-1)
 
