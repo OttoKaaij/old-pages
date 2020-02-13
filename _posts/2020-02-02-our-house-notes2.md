@@ -68,3 +68,16 @@ Veel veranderingen, worden doorgesproken en geoefend op donderdag:
 - Maat 31 en 32 spelen we gewoon 2x, geen vamp.
 - Na maat 48 een stop. 
 - De twee herhalingen tussen maat 49 en 56 spelen we allebei twee keer, maar waarschijnlijk stoppen we eerder, en geef ik de _3, 4_ voor maat 57. 
+
+
+# Doen in theater
+
+1. 11. Tomorrow's just another day : spelen om op te warmen
+1. Einde show : nieuwe einde.
+2. 16. House of Fun / Rise And Fall / My Girl : nieuwe wijzigingen
+3. 4b. Magistrates' Court : in 2!
+4. 8a. II : de roffel 
+5. 1a. Los Palmos Seven - Het einde
+6. 12a. Night Boat to Cairo (Vegas Version) Nieuwe tempo
+7. 8c -> 9. Mischien soort van crossfade achtig effect, even proberen
+8. Eindes embarrasment
