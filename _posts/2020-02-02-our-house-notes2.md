@@ -81,3 +81,16 @@ Veel veranderingen, worden doorgesproken en geoefend op donderdag:
 6. 12a. Night Boat to Cairo (Vegas Version) Nieuwe tempo
 7. 8c -> 9. Mischien soort van crossfade achtig effect, even proberen
 8. Eindes embarrasment
+
+
+# Otto keys 2 speelmomenten:
+
+- Bit of vibes in opening
+- Groove in House of Fun
+- 5. Baggy trousers (in other part) (orgel partij met Carly checken)
+- 8. Driving in my car (in other part)
+- 8c. Simple equation Tub Bells
+- 9. Lo palmos Vibes 
+- 11. Harpsi en Trem strings
+- 13. Wings of a dove Steel drum (in other part if possible)
+- 19. Einde checken of haalbaar is met carly.
