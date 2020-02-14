@@ -6,6 +6,15 @@ span: 2018-2019
 permalink: /our-house-notes-2
 ---
 
+# Premierenotes
+
+- 1. Opening naar House of fun: Attacca 
+- 5. Baggy trousers, maat 91-92 3x spelen
+- 8c. Maat 50 tm 65 herhaling is eruit
+- 11. Tomorrow's just another day: laatste noot 1 kwart later!
+- 12. Eerste 5 langzamer, 6 sneller
+- 17. Laatste akkoord, piano inzet _p_ en dan cresc
+- 19. Sun and rain maat 165 blijft in tempo
 
 # Structuur wijzigingen!
 
