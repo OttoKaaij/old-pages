@@ -5,10 +5,6 @@ permalink: /cs/
 ---
 
 I am currently doing my BSc in Computer Science at the TU Delft.   
-My main interests are:
-
-- Education
-- Software architecture
 
 # TA
 
@@ -19,10 +15,9 @@ I am / have been active as a teaching assistant for the following courses:
 - Computer Organisation
 - Web and Database Technology
 - Algorithms and Datastructures
+- Algorithm Design
 - Object Oriented Programming Project
+- Software Project
 - Software Quality and Testing
 
-# Minor education
 
-In academic year 2019-2020, I will be doing a minor in education at the TU
-Delft.
