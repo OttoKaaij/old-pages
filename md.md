@@ -48,11 +48,11 @@ a list of preamble variables, good reference.
 ---
 title: Cyber Range User Manual
 author: 
-    - name: Otto Kaaij
-      affiliation: TUDelft
-      title: Teaching Assistant
-      street: Suezkade 186
-      postal: 2517CH
+    - name: John Smith
+      affiliation: Wherever
+      title: Chief Empty Box Officer
+      street: Streetname
+      postal: Postalcode
       KVK: 0123456789
       BTW: 0123456789
       extra: Extra info
