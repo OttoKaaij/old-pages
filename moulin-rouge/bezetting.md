@@ -4,9 +4,6 @@ title: Moulin Rouge Band
 permalink: /moulin-rouge/band
 ---
 
-- ??: nog geen muzikant voor gevonden.
-- cursief: muzikant gevraagd en wachtend op antwoord.
-
 | instrument | Muzikant |
 | --- | --- |
 | Klarinet | Rachel | 
