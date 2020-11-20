@@ -11,6 +11,7 @@ permalink: /moulin-rouge/band
 | Trompet 1 | _Martin?_ |
 | Trompet 2 | Mathilda |
 | Saxofoon  | _Harold?_ |
+| Hoorn? | _Swen?_ |
 | Trombone | _Marijn?_ | 
 | Keys 1 | _Carly?_ |
 | Keys 2 | Martine |
@@ -29,6 +30,7 @@ permalink: /moulin-rouge/band
 | Viool | _Dieuwke?_ |
 | Altviool | ?? |
 | Cello | ?? |
+| Harp? | Emilie | 
 
 
 
