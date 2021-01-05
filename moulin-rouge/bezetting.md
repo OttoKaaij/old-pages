@@ -4,53 +4,46 @@ title: Moulin Rouge Band
 permalink: /moulin-rouge/band
 ---
 
-## Repetities
 
-Op **vrijdag 22 januari** of **zondag 24 januari** hebben we onze grote kickoff. 
-We spelen, zo tutti als mogelijk, een selectie nummers door, om elkaar, de muziek en het project te leren kennen.
-Daarna gaan we in 4 groepen **op vrijdagen** repeteren, om de details van de noten even uit te pluizen. Ik zal bij een aantal van deze repetities aanwezig zijn, maar ze worden in principe door een soms nader te bepalen sectieleider geleid. Ik ga in die tijd ook met acteurs repeteren.
-De precieze data en tijden hiervoor moeten nog worden afgesproken, maar het gaat om de volgende groepen:
+## Plan
 
-- Drums + Slagwerk o.l.v jonah
-- Blazers o.l.v. ??
-- Strijkers (+ harp) o.l.v ??
-- Ritmesectie (drums, slagwerk, basgitaar, gitaren, toetsen) o.l.v. Otto
+Voor deze voorstelling, die in wandeltheatervorm uitgevoerd wordt, gaan we
+opnames van de muziek maken. We maken die opnames op clicktrack, en in kleinere groepen.
 
-Daarna gaan we op zondagen tutti repetities houden. 
-- **28 februari** en **7 maart** bandrepetities
-- **14 maart** en **21 maart** repetities met band en acteurs
-- **28 maart** doorloop
-- **11 april** doorloop
+_Later meer_
 
-Dan is het al weer tijd voor de shows. 
-Op **maandag 12 april** bouwen jonah en ik mee met het technische team in het theater.
-Op **13 april** is een helse dag: we zijn de _hele_ dag in theater, voor een soundcheck, een doorloop en 's avonds een show.
-Op **14 april** is er een doorloop vanaf een uurtje of 1300, en 's avonds een show. Op **15 en 16 april** zijn er 's avonds shows.
 
-De tijden zijn allemaal nog onder voorbehoud, en gaan nog wel flink aangepast worden. 
-Ze zijn wel een goede indicatie van wat er ongeveer gepland staat.
+## Data
+
+| Datum | Maar wie dan? | Maar wat dan? | 
+| --- | --- | --- |
+| **Zondag 21 februari ochtend + middag** | Ritmesectie | Repetitiedag |
+| **Zondag 28 februari ochtend + middag** | Ritmesectie | Repetitiedag |
+| **Vrijdag 5 maart avond** | Ritmesectie | Bouwavond en soundcheck |
+| **Zaterdag 6 maart ochtend + middag** | Ritmesectie | Opnamedag |
+| **Zondag 7 maart ochtend + middag** | Ritmesectie | Opnamedag | 
+
 
 ## Bezetting
 
 | instrument | Muzikant |
 | --- | --- |
 | Klarinet | Rachel | 
-| Houtblazer? | ?? | 
-| Trompet 1 | _Martin?_ |
+| Trompet 1 | Matthijs |
 | Trompet 2 | Mathilda |
 | Saxofoon  | _Harold?_ |
-| Hoorn? | _Swen?_ |
-| Trombone | _Marijn?_ | 
-| Keys 1 | _Carly?_ |
+| Hoorn | Swen |
+| Trombone | _Marijn?_/_1<sup>ste</sup> klasser_ | 
+| Keys 1 | Carly |
 | Keys 2 | Martine |
 | Keys 3 / MD | Otto |
-| Ak. Git | _Orestes?_ |
-| Ak. / El. Git. | _Julius?_ |
+| Ak. Git | Orestes |
+| Ak. / El. Git. | Roel |
 | El. Git | Syon |
-| Basgitaar | _Tisha?_ |
+| Basgitaar | Tisha |
 | Drums | Jonah | 
 | Percussie | Laura | 
-| Percussie | _Orestes?_ | 
+| Percussie | Orestes | 
 | Percussie | Abel | 
 | Viool | Susannah |
 | Viool | Reo |
@@ -59,4 +52,18 @@ Ze zijn wel een goede indicatie van wat er ongeveer gepland staat.
 | Altviool | ?? |
 | Cello | ?? |
 | Harp? | Emilie | 
+
+## Groepen
+
+Er zijn een aantal termen die veel gebruikt gaan worden, 
+en het is handig als we het allemaal eens zijn over wat die dingen betekenen.
+
+
+| Groep | Muzikanten |
+| --- | --- |
+| Tutti | Iedereen  | 
+| Ritmesectie | Drums, gitaren, basgitaar, toetsen | 
+| Blazers | Lijkt me duidelijk |
+| Strijkers | Ook duidelijk | 
+| Slagwerk | Alles wat trommelt, maar exclusief drums  | 
 
